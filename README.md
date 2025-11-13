@@ -17,17 +17,7 @@ I enjoy writing **clean code**, using **version control** properly, and turning 
 - Data Engineering & Analytics  
 - Clean, maintainable code & good Git workflows  
 
----
 
-## 🧠 What I'm Currently Working On
-
-- 🔥 Developing **Bayesian neural network models** for uncertainty-aware prediction  
-- 📊 Building **end-to-end ML workflows** with Docker + CI/CD (GitHub Actions / Jenkins)  
-- 🧪 Applying **statistics & UQ** to make models more interpretable and reliable  
-- ⚡ Exploring **parallel algorithms** (MPI, OpenMP) for faster ML and simulation workloads  
-- 🛠️ Automating data processing pipelines in Python, Bash and SQL  
-
----
 
 ## 🛠️ Languages & Tools
 
