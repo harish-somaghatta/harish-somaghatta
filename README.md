@@ -41,11 +41,11 @@ I enjoy writing **clean code**, using **version control** properly, and turning 
   <!-- Google Cloud -->
   <img src="https://skillicons.dev/icons?i=googlecloud" height="45"/>
 
-  <!-- Pandas -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" height="45" style="margin-left:10px;" />
+  <!-- Pandas (white) -->
+  <img src="https://cdn.simpleicons.org/pandas/ffffff" height="45" style="margin-left:10px;" />
 
-  <!-- NumPy -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" height="45" style="margin-left:10px;" />
+  <!-- NumPy (white) -->
+  <img src="https://cdn.simpleicons.org/numpy/ffffff" height="45" style="margin-left:10px;" />
 
   <!-- GitLab -->
   <img src="https://skillicons.dev/icons?i=gitlab" height="45" style="margin-left:10px;" />
