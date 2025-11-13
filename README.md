@@ -5,59 +5,31 @@
 # Hi, I'm Harish 👋  
 
 Guten Tag 👋  
-I'm **Harish Somaghatta**, a **Machine Learning Engineer** based in **Stuttgart, Germany** with hands-on experience in  
-**building scalable ML pipelines, uncertainty-aware deep learning models, CI/CD automation, data engineering**,  
-and **high-performance computing**.
+I'm **Harish Somaghatta**, a **Machine Learning Engineer** based in **Stuttgart, Germany**, currently completing my **Master’s in Computational Materials Science** at **TU Bergakademie Freiberg**. I work on building **scalable ML pipelines**, **uncertainty-aware deep learning models**, and **production-oriented automation** using Python, TensorFlow, PyTorch, Docker, and CI/CD.
 
-I enjoy writing **clean, maintainable code**, practicing **good version control**, and developing  
-**intelligent systems that deliver measurable business impact**.
+I enjoy writing **clean code**, using **version control** properly, and turning ideas into **reproducible ML systems**.
 
----
-
-## 🔥 **About Me**
-- Machine Learning Engineer (Python + TensorFlow + PyTorch)
-- Strong experience with **BNNs, CNNs, probabilistic modelling, SHAP**
-- Skilled in **MLOps, Docker, CI/CD, GitHub Actions, Jenkins**
-- Data Engineering using **BigQuery, ETL workflows, MicroStrategy**
-- High-Performance Computing (**MPI, OpenMP, C++ parallelization**)
-- Passion for automation, reproducibility & clean architecture
+💡 I am passionate about:  
+- Machine Learning & Deep Learning  
+- MLOps, Model Deployment & Automation  
+- Bayesian & Probabilistic Modeling  
+- High-Performance Computing (MPI | OpenMP | Parallel C++)  
+- Data Engineering & Analytics  
+- Clean, maintainable code & good Git workflows  
 
 ---
 
-## 🧠 **Professional Experience**
+## 🧠 What I'm Currently Working On
 
-### **Robert Bosch GmbH – Stuttgart, Germany**
-**Machine Learning Researcher (Nov 2024 – Jul 2025)**  
-- Developed **Bayesian neural networks** for uncertainty-aware voltage prediction.  
-- Performed **sensitivity analysis (SHAP)** & stochastic sampling.  
-- Built reproducible ML pipelines using **Python & PyTorch**.  
-- Applied UQ techniques to improve model reliability and interpretability.
-
-**Intern (Jun 2024 – Aug 2024)**  
-- Preprocessed battery & sensor data using **MATLAB & Python**.  
-- Collaborated with DevOps teams to integrate **CI/CD best practices**.  
-- Documented data workflows and pipeline configurations.
+- 🔥 Developing **Bayesian neural network models** for uncertainty-aware prediction  
+- 📊 Building **end-to-end ML workflows** with Docker + CI/CD (GitHub Actions / Jenkins)  
+- 🧪 Applying **statistics & UQ** to make models more interpretable and reliable  
+- ⚡ Exploring **parallel algorithms** (MPI, OpenMP) for faster ML and simulation workloads  
+- 🛠️ Automating data processing pipelines in Python, Bash and SQL  
 
 ---
 
-### **Sanmina-SCI Technology – Chennai, India**
-**Enterprise Data Warehouse (EDW) Administrator (Jul 2018 – Oct 2020)**  
-- Contributed to **BigQuery analytics** using Python & GitLab.  
-- Managed data warehouses: **Google BigQuery & IBM Netezza**.  
-- Optimized **ETL workflows** and automated reporting processes.  
-- Provided IT support for data access & issue resolution.
-
-**Graduate Engineering Trainee (Jul 2017 – Jul 2018)**  
-- Strengthened **C, C++, Python** with real-time engineering projects.  
-- Managed production deployments using Object Manager.  
-- Exposure to **Shell scripting** & **Oracle PL/SQL**.
-
-**Internship Trainee (Jan 2017 – Jul 2017)**  
-- Gained exposure to IT services, manufacturing systems & business workflows.
-
----
-
-## 🛠️ **Languages & Tools**
+## 🛠️ Languages & Tools
 
 ### 💻 Programming
 <p>
@@ -74,58 +46,50 @@ I enjoy writing **clean, maintainable code**, practicing **good version control*
   <img src="https://skillicons.dev/icons?i=docker,githubactions,jenkins,fastapi" />
 </p>
 
-### 🗄️ Data Engineering
+### 🗄️ Data Engineering & Analytics
 <p>
   <img src="https://skillicons.dev/icons?i=googlecloud,pandas,numpy,gitlab" />
 </p>
 
-### 🧮 HPC & Parallel Computing
+### 🧮 HPC & Systems
 <p>
   <img src="https://skillicons.dev/icons?i=linux,c,terminal" />
 </p>
 
 ---
 
-## 📚 **Highlighted Projects**
+## 🧩 Tech Stack (Detailed)
 
-### **Steel Surface Defect Classification (Xception – CNN)**
-- Implemented multi-class defect classifier using **Xception CNN**.  
-- Used **TFRecordDataset** for improved data throughput.  
-- Performed fine-tuning and hyperparameter optimization.
-
-### **Material Classification & Thermal Property Prediction**
-- Classification with **ANN, Random Forest, KNN**.  
-- Regression using **ANN, Gradient Boosting, MLR**.  
-- Built complete ML pipelines from preprocessing → evaluation.
-
-### **Parallel PageRank with MPI (C++)**
-- Designed a distributed PageRank algorithm using **MPI**.  
-- Benchmarked performance across varying graph sizes.
-
-### **Multi-CPU Simulation Data Integration**
-- Automated multi-CPU snapshot merging using **Bash + Awk**.  
-- Eliminated redundant headers & manual preprocessing.
-
----
-
-## 🎓 **Education**
-**M.Sc. Computational Materials Science (2020 – 2025)**  
-TU Bergakademie Freiberg, Germany  
-
-**B.E. Mechanical Engineering (2013 – 2017)**  
-Anna University, Chennai  
-
----
-
-## 📫 Contact Me
-📍 Stuttgart, Germany  
-📧 **s.harish180@gmail.com**  
-🔗 **https://www.linkedin.com/in/harish-somaghatta/**  
-
----
-
-## 🧑‍💻 Fun Facts
-- I love writing **clean code**  
-- I enjoy **version control** & reproducible ML  
-- I like automation, HPC, data engineering & coding in the terminal  
-
+```js
+const harish = {
+  pronouns: "He" | "Him",
+  code: ["Python", "C++", "R", "SQL", "Bash", "MATLAB"],
+  machineLearning: {
+    frameworks: ["PyTorch", "TensorFlow", "scikit-learn"],
+    topics: [
+      "Bayesian Neural Networks (BNNs)",
+      "Uncertainty Quantification",
+      "CNNs",
+      "Feature Attribution (SHAP)"
+    ]
+  },
+  mlOps: {
+    tools: ["Docker", "GitHub Actions", "Jenkins"],
+    deployment: ["FastAPI", "TensorFlow Serving"],
+    practices: ["CI/CD", "Reproducible ML Pipelines"]
+  },
+  dataEngineering: {
+    warehouses: ["BigQuery", "IBM Netezza"],
+    pythonStack: ["Pandas", "NumPy"],
+    reporting: ["MicroStrategy"],
+  },
+  hpc: {
+    parallelism: ["MPI", "OpenMP", "Parallel C++"],
+    automation: ["Bash", "Awk"],
+  },
+  interests: [
+    "Clean code",
+    "Version control best practices",
+    "Scalable ML systems"
+  ],
+};
