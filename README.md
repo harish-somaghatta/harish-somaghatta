@@ -5,7 +5,7 @@
 # Hi, I'm Harish 👋  
 
 Guten Tag 👋  
-I'm **Harish Somaghatta**, a **Machine Learning Engineer** based in **Stuttgart, Germany**, currently completing my **Master’s in Computational Materials Science** at **TU Bergakademie Freiberg**. I work on building **scalable ML pipelines**, **uncertainty-aware deep learning models**, and **production-oriented automation** using Python, TensorFlow, PyTorch, Docker, and CI/CD.
+I'm Harish Somaghatta, a Machine Learning Engineer based in Stuttgart, Germany. I completed my Master’s in Computational Materials Science from TU Bergakademie Freiberg and my Bachelor’s in Mechanical Engineering from Anna University, Chennai. I have professional experience at Robert Bosch GmbH and Sanmina-SCI, where I worked on machine learning, data engineering, and automation. As a software and data enthusiast, I’m passionate about building scalable ML systems and making technology more accessible and reliable for everyone.
 
 I enjoy writing **clean code**, using **version control** properly, and turning ideas into **reproducible ML systems**.
 
