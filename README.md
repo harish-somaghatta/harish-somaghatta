@@ -15,8 +15,6 @@ I enjoy writing **clean code**, using **version control** properly, and turning 
 - Bayesian & Probabilistic Modeling  
 - High-Performance Computing (MPI | OpenMP | Parallel C++)  
 - Data Engineering & Analytics  
-- Clean, maintainable code & good Git workflows  
-
 
 
 ## 🛠️ Languages & Tools
