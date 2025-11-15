@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" alt="https://github.com/harish-somaghatta/harish-somaghatta/blob/main/ChatGPT%20Image%20Nov%2015%2C%202025%2C%2010_38_29%20PM.png"/>
+  <img src="https://raw.githubusercontent.com/harish-somaghatta/harish-somaghatta/main/ChatGPT%20Image%20Nov%2015%202025%20(2)%2010_38_29%20PM.png" width="100%" />
 </p>
 
 # Hi, I'm Harish 👋  
