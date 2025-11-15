@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/harish-somaghatta/harish-somaghatta/blob/main/git_img.png" width="50%" />
+  <img src="https://github.com/harish-somaghatta/harish-somaghatta/blob/main/git_img.png" width="70%" />
 </p>
 
 # Hi, I'm Harish 👋  
