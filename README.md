@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/harish-somaghatta/harish-somaghatta/blob/main/git_img.png" width="70%" />
-</p>
-
-# Hi, I'm Harish 👋  
+  <img src="https://github.com/harish-somaghatta/harish-somaghatta/blob/main/git_img.png" width="65%" />
+</p> 
 
 Guten Tag 👋  
 I'm Harish Somaghatta, a Machine Learning Engineer based in Stuttgart, Germany. I completed my Master’s in Computational Materials Science from TU Bergakademie Freiberg and my Bachelor’s in Mechanical Engineering from Anna University, Chennai. I have professional experience at Robert Bosch GmbH and Sanmina-SCI, where I worked on machine learning, data engineering, and automation. As a software and data enthusiast, I’m passionate about building scalable ML systems and making technology more accessible and reliable for everyone.
