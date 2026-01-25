@@ -1,35 +1,33 @@
-
 Guten Tag 👋  
-I'm Harish Somaghatta, a Machine Learning Engineer based in Stuttgart, Germany. I completed my Master’s in Computational Materials Science from TU Bergakademie Freiberg and my Bachelor’s in Mechanical Engineering from Anna University, Chennai. I have professional experience at Robert Bosch GmbH and Sanmina-SCI, where I worked on machine learning, data engineering, and automation. As a software and data enthusiast, I’m passionate about building scalable ML systems and making technology more accessible and reliable for everyone.
+I'm Harish Somaghatta, a Machine Learning Engineer based in Germany. I completed my Master’s in Computational Materials Science from TU Bergakademie Freiberg and my Bachelor’s in Mechanical Engineering from Anna University, India. I have professional experience at Robert Bosch GmbH and Sanmina-SCI, where I worked on machine learning, data engineering, and automation. As a software and data enthusiast, I’m passionate about building scalable ML systems and making technology more accessible and reliable for everyone.
 
 I enjoy writing **clean code**, using **version control** properly, and turning ideas into **reproducible ML systems**.
 
-💡 I am passionate about:  
+ I am passionate about:  
 - Machine Learning & Deep Learning  
 - MLOps, Model Deployment & Automation  
 - Bayesian & Probabilistic Modeling  
 - High-Performance Computing (MPI | OpenMP | Parallel C++)  
 - Data Engineering & Analytics  
 
+##  Languages & Tools
 
-## 🛠️ Languages & Tools
-
-### 💻 Programming
+###  Programming
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,r,postgres,bash,matlab" />
 </p>
 
-### 🤖 Machine Learning
+### Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
 </p>
 
-### 🚀 MLOps / DevOps
+###  MLOps / DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=docker,githubactions,jenkins,fastapi" />
 </p>
 
-### 🗄️ Data Engineering & Analytics
+### Data Engineering & Analytics
 <p>
   <!-- Google Cloud -->
   <img src="https://skillicons.dev/icons?i=googlecloud" height="45"/>
@@ -44,14 +42,14 @@ I enjoy writing **clean code**, using **version control** properly, and turning 
   <img src="https://skillicons.dev/icons?i=gitlab" height="45" style="margin-left:10px;" />
 </p>
 
-### 🧮 HPC & Systems
+### HPC & Systems
 <p>
   <img src="https://skillicons.dev/icons?i=linux,c,terminal" />
 </p>
 
 ---
 
-## 🧩 Tech Stack (Detailed)
+## Tech Stack (Detailed)
 
 ```js
 const harish = {
